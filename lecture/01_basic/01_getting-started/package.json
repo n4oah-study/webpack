@@ -1,0 +1,18 @@
+{
+  "name": "01_getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.27.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "test": "../../node_modules/.bin/webpack"
+  },
+  "keywords": [],
+  "author": "n4oah",
+  "license": "ISC"
+}
